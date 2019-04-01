@@ -9,3 +9,10 @@ In this small project, we will build and deploy a machine model to positive or n
 
 numpy, pandas, sklearn,azureml.core
 
+# Error control
+
+install the following pip packages on your target virtual environment:
+
+pip install azure <br>
+pip install azure-ml-api-sdk <br>
+
