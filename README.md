@@ -1,9 +1,15 @@
 # Azure_ML
-Building a simple Naive bayes model with Azure ML service
+
+Build and Deploy a Machine Learning Model(Naive Bayes in our example) with Azure ML Service
 
 # Aim of study
 
-In this small project, we will build and deploy a machine model to positive or negative reviews from customers(in resturant setting)
+In this small project, we will build and deploy a machine model to predict positive or negative reviews from customers(in resturant setting).<br>
+There are three key steps to follow;
+
+1-Initializing Azure ML Environment<br>
+2-Training and Testing Model <br>
+3-Registering and Serving the Model<br>
 
 # Modules
 
