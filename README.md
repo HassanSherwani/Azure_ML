@@ -1,9 +1,9 @@
 # Azure_ML
-Building a simple regression model with Azure ML service
+Building a simple Naive bayes model with Azure ML service
 
 # Aim of study
 
-In this small project, we will build and deploy a machine model to predict the salary from the Stackoverflow dataset
+In this small project, we will build and deploy a machine model to positive or negative reviews from customers(in resturant setting)
 
 # Modules
 
